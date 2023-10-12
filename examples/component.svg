@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="570px" preserveAspectRatio="none" style="width:485px;height:570px;background:#282C34;" version="1.1" viewBox="0 0 485 570" width="485px" zoomAndPan="magnify"><defs/><g><!--MD5=[262aabfe314dcb38308ea550cce12173]
-cluster Some Group--><g id="cluster_Some Group"><path d="M19.5,6 L107.5,6 A3.75,3.75 0 0 1 110,8.5 L117,28.4883 L472.5,28.4883 A2.5,2.5 0 0 1 475,30.9883 L475,100.5 A2.5,2.5 0 0 1 472.5,103 L19.5,103 A2.5,2.5 0 0 1 17,100.5 L17,8.5 A2.5,2.5 0 0 1 19.5,6 " fill="#282C34" style="stroke:#ABB2BF;stroke-width:1.5;"/><line style="stroke:#ABB2BF;stroke-width:1.5;" x1="17" x2="117" y1="28.4883" y2="28.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="87" x="21" y="21.5352">Some Group</text></g><!--MD5=[a809f7b457cbc4d947186a4bb863b06b]
-cluster Other Groups--><g id="cluster_Other Groups"><polygon fill="#282C34" points="16,137,26,127,277,127,277,219,267,229,16,229,16,137" style="stroke:#ABB2BF;stroke-width:1.0;"/><line style="stroke:#ABB2BF;stroke-width:1.0;" x1="267" x2="277" y1="137" y2="127"/><line style="stroke:#ABB2BF;stroke-width:1.0;" x1="16" x2="267" y1="137" y2="137"/><line style="stroke:#ABB2BF;stroke-width:1.0;" x1="267" x2="267" y1="137" y2="229"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="94" y="153.5352">Other Groups</text></g><g id="cluster_##12"><path d="M310.5727,161.149 C314.1927,155.1121 318.0335,154.8768 323.1481,159.3628 C325.5226,153.415 330.0592,151.7417 334.8193,156.8429 C339.1842,150.7365 343.0934,151.0085 347.6132,156.6746 C351.2979,149.6327 357.955,149.3318 362.0425,156.2585 C365.2976,150.4983 369.1366,149.4193 373.9725,154.5224 C378.8155,148.7605 384.8541,149.791 387.9379,156.4933 C391.8241,152.3256 395.496,151.1477 398.7209,157.1916 C402.8735,150.0297 408.8389,151.4385 412.6318,157.5681 C417.4616,151.1306 422.0048,151.8195 425.2513,159.0319 C429.8929,153.6356 434.5755,154.0169 437.6021,160.6852 C446.2983,164.4773 446.5275,169.8214 439.9975,175.9957 C447.2926,180.0902 446.3916,187.0154 439.9048,191.025 C446.4365,196.7168 446.5268,201.8095 439.2287,206.9128 C446.9226,212.1781 444.3581,219.1334 437.1498,222.3982 C434.123,229.1628 428.5973,229.1863 424.9208,223.0123 C420.85,228.2974 415.2221,227.5286 412.3528,221.6586 C409.3186,227.891 404.4162,228.4093 400.3127,222.7404 C395.4189,230.2408 390.4757,229.4362 386.0145,222.3173 C383.9407,228.6941 378.7521,230.0743 374.3514,224.6091 C369.5858,230.1083 364.5263,230.2816 361.422,222.9367 C357.0632,229.7863 352.6756,229.2837 348.3179,222.9355 C344.9325,229.2371 339.6032,228.4152 335.8749,223.3096 C330.4188,230.38 325.424,227.635 321.8191,221.3599 C318.3349,227.6179 314.3215,227.116 310.2916,221.9085 C301.6363,218.3338 299.7335,212.233 307.2772,205.6542 C299.6264,201.6862 298.7812,195.9872 305.3302,190.2271 C298.9058,184.988 300.4238,179.327 307.4669,176.1292 C300.0849,170.5405 302.0364,163.4374 310.5727,161.149 " fill="#282C34" style="stroke:#ABB2BF;stroke-width:1.0;"/></g><!--MD5=[a8e31809c94bd3920922c17a126bb0b3]
-cluster MySql--><g id="cluster_MySql"><path d="M279,263 C279,253 373.5,253 373.5,253 C373.5,253 468,253 468,263 L468,543 C468,553 373.5,553 373.5,553 C373.5,553 279,553 279,543 L279,263 " fill="#282C34" style="stroke:#ABB2BF;stroke-width:1.0;"/><path d="M279,263 C279,273 373.5,273 373.5,273 C373.5,273 468,273 468,263 " fill="none" style="stroke:#ABB2BF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="43" x="352" y="288.5352">MySql</text></g><!--MD5=[57a7dd60b0970f41fd8892a58576fbc8]
-cluster This is my folder--><g id="cluster_This is my folder"><path d="M305.5,311 L431.5,311 A3.75,3.75 0 0 1 434,313.5 L441,333.4883 L441.5,333.4883 A2.5,2.5 0 0 1 444,335.9883 L444,405.5 A2.5,2.5 0 0 1 441.5,408 L305.5,408 A2.5,2.5 0 0 1 303,405.5 L303,313.5 A2.5,2.5 0 0 1 305.5,311 " fill="#282C34" style="stroke:#ABB2BF;stroke-width:1.5;"/><line style="stroke:#ABB2BF;stroke-width:1.5;" x1="303" x2="441" y1="333.4883" y2="333.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="125" x="307" y="326.5352">This is my folder</text></g><!--MD5=[b098bf3b49ab5940c6091a421f0675e2]
-cluster Foo--><g id="cluster_Foo"><rect fill="#282C34" height="97" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:1.0;" width="128" x="309" y="432"/><path d="M345,432 L345,441.4883 L335,451.4883 L309,451.4883 " fill="none" style="stroke:#ABB2BF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="26" x="312" y="446.5352">Foo</text></g><!--MD5=[96f7e1299d4a43069e6ed32352fcac20]
-entity HTTP--><g id="elem_HTTP"><ellipse cx="233" cy="64" fill="#424856" rx="8" ry="8" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="36" x="215" y="94.5352">HTTP</text></g><!--MD5=[cbd7cda55f2530e2efe43ec72c097853]
-entity First Component--><g id="elem_First Component"><rect fill="#424856" height="46.4883" rx="2.5" ry="2.5" style="stroke:#61AFEF;stroke-width:0.5;" width="155" x="33.5" y="41"/><rect fill="#424856" height="10" style="stroke:#61AFEF;stroke-width:0.5;" width="15" x="168.5" y="46"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="166.5" y="48"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="166.5" y="52"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="115" x="48.5" y="74.5352">First Component</text></g><!--MD5=[b9d11f23832c1491231c5b33e55ab8c6]
-entity Another Component--><g id="elem_Another Component"><rect fill="#424856" height="46.4883" rx="2.5" ry="2.5" style="stroke:#61AFEF;stroke-width:0.5;" width="181" x="277.5" y="41"/><rect fill="#424856" height="10" style="stroke:#61AFEF;stroke-width:0.5;" width="15" x="438.5" y="46"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="436.5" y="48"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="436.5" y="52"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="141" x="292.5" y="74.5352">Another Component</text></g><!--MD5=[76af18d92d7d7c0f7ebd8f4f605ac5aa]
-entity FTP--><g id="elem_FTP"><ellipse cx="41" cy="190" fill="#424856" rx="8" ry="8" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="25" x="28.5" y="220.5352">FTP</text></g><!--MD5=[0e2cc1aee2c7f52697e111b4fb84546c]
-entity Second Component--><g id="elem_Second Component"><rect fill="#424856" height="46.4883" rx="2.5" ry="2.5" style="stroke:#61AFEF;stroke-width:0.5;" width="175" x="85.5" y="167"/><rect fill="#424856" height="10" style="stroke:#61AFEF;stroke-width:0.5;" width="15" x="240.5" y="172"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="238.5" y="174"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="238.5" y="178"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="135" x="100.5" y="200.5352">Second Component</text></g><!--MD5=[243c1e580c31013c48b02624e18b25a7]
-entity Example 1--><g id="elem_Example 1"><rect fill="#424856" height="46.4883" rx="2.5" ry="2.5" style="stroke:#61AFEF;stroke-width:0.5;" width="112" x="317" y="167"/><rect fill="#424856" height="10" style="stroke:#61AFEF;stroke-width:0.5;" width="15" x="409" y="172"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="407" y="174"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="407" y="178"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="72" x="332" y="200.5352">Example 1</text></g><!--MD5=[3e0e08c92570480402984701ab5a6d2d]
-entity Folder 3--><g id="elem_Folder 3"><rect fill="#424856" height="46.4883" rx="2.5" ry="2.5" style="stroke:#61AFEF;stroke-width:0.5;" width="97" x="324.5" y="346"/><rect fill="#424856" height="10" style="stroke:#61AFEF;stroke-width:0.5;" width="15" x="401.5" y="351"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="399.5" y="353"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="399.5" y="357"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="57" x="339.5" y="379.5352">Folder 3</text></g><!--MD5=[63877ed85df621d134a6c80fb52dad56]
-entity Frame 4--><g id="elem_Frame 4"><rect fill="#424856" height="46.4883" rx="2.5" ry="2.5" style="stroke:#61AFEF;stroke-width:0.5;" width="96" x="325" y="467"/><rect fill="#424856" height="10" style="stroke:#61AFEF;stroke-width:0.5;" width="15" x="401" y="472"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="399" y="474"/><rect fill="#424856" height="2" style="stroke:#61AFEF;stroke-width:0.5;" width="4" x="399" y="478"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="56" x="340" y="500.5352">Frame 4</text></g><!--MD5=[46d996859f59e5baf77956ce93023cee]
-link HTTP to First Component--><g id="link_HTTP_First Component"><path d="M223.65,64 C211.99,64 200.34,64 188.68,64 " fill="none" id="HTTP-First Component" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[1966a42bb49d59057147dbda06282f4b]
-link FTP to Second Component--><g id="link_FTP_Second Component"><path d="M50.28,190 C61.95,190 73.61,190 85.28,190 " fill="none" id="FTP-Second Component" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[d3aefbd8005e27b21e7ce98ddd948193]
-link First Component to FTP--><g id="link_First Component_FTP"><path d="M90.74,87.28 C82.93,96.61 74.37,107.87 68,119 C57.56,137.23 49.55,160.28 45.06,174.83 " fill="none" id="First Component-to-FTP" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="43.69,179.43,50.1177,171.9677,45.1333,174.6428,42.4582,169.6585,43.69,179.43" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[efc1ffe8b578a0fb156c7bce303319bb]
-link Another Component to Example 1--><g id="link_Another Component_Example 1"><path d="M368.91,87.46 C369.73,107.91 370.95,138.22 371.85,160.4 " fill="none" id="Another Component-to-Example 1" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="372.04,165.2,375.6771,156.0473,371.8402,160.204,367.6835,156.3671,372.04,165.2" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[7ec8393a78a133520e8846dd05a7857a]
-link Example 1 to Folder 3--><g id="link_Example 1_Folder 3"><path d="M373,213.42 C373,245.47 373,304.39 373,339.5 " fill="none" id="Example 1-to-Folder 3" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="373,344.25,377,335.25,373,339.25,369,335.25,373,344.25" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[b96c7096199393c1414a8b4e9ed2c30f]
-link Folder 3 to Frame 4--><g id="link_Folder 3_Frame 4"><path d="M373,392.38 C373,411.58 373,439.36 373,460.21 " fill="none" id="Folder 3-to-Frame 4" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="373,465.2,377,456.2,373,460.2,369,456.2,373,465.2" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[f29608a81f72ab8d3031daf8f0433b28]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="628px" preserveAspectRatio="none" style="width:651px;height:628px;background:#22212C;" version="1.1" viewBox="0 0 651 628" width="651px" zoomAndPan="magnify"><defs/><g><!--MD5=[262aabfe314dcb38308ea550cce12173]
+cluster Some Group--><path d="M16,7.8 L122,7.8 A15,15 0 0 1 132,17.8 L139,37.8 L580,37.8 A10,10 0 0 1 590,47.8 L590,109.8 A10,10 0 0 1 580,119.8 L16,119.8 A10,10 0 0 1 6,109.8 L6,17.8 A10,10 0 0 1 16,7.8 " fill="#22212C" style="stroke:#8AFF80;stroke-width:1.5;"/><line style="stroke:#8AFF80;stroke-width:1.5;" x1="6" x2="139" y1="37.8" y2="37.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="120" x="10" y="28.5">Some Group</text><!--MD5=[a809f7b457cbc4d947186a4bb863b06b]
+cluster Other Groups--><polygon fill="#454158" points="64,153.8,74,143.8,381,143.8,381,250.8,371,260.8,64,260.8,64,153.8" style="stroke:#8AFF80;stroke-width:1.5;"/><line style="stroke:#8AFF80;stroke-width:1.5;" x1="371" x2="381" y1="153.8" y2="143.8"/><line style="stroke:#8AFF80;stroke-width:1.5;" x1="64" x2="371" y1="153.8" y2="153.8"/><line style="stroke:#8AFF80;stroke-width:1.5;" x1="371" x2="371" y1="153.8" y2="260.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="144" x="146.5" y="175.5">Other Groups</text><path d="M414.5834,184.2647 C417.1497,179.4066 422.2768,178.8825 425.2102,183.8684 C428.4622,177.1848 432.5211,176.434 437.6458,181.9612 C442.7012,176.3201 447.0379,176.6289 450.3148,183.7295 C452.5721,178.7038 458.2243,177.1492 461.8319,182.1839 C464.2918,176.1613 469.7811,175.6432 473.2544,181.1827 C476.2903,175.7195 481.6664,176.3994 484.6455,181.2454 C488.0876,176.0699 492.0737,174.9435 496.2698,180.4228 C499.86,175.3205 505.0132,176.1763 507.2204,181.8307 C510.7085,175.8531 515.7957,175.4203 520.244,180.722 C525.1648,176.2148 528.8464,176.0015 531.8753,182.6879 C534.7188,178.1433 538.8282,176.7802 542.4797,181.7912 C546.1827,176.2837 551.5307,176.9127 553.5741,183.3346 C557.9479,177.6036 563.6977,178.4161 566.9918,184.5551 C570.0152,179.6028 575.2783,179.6163 578.41,184.4284 C585.4498,187.0089 585.812,191.4413 581.251,196.7061 C586.9907,200.1135 588.2597,203.6143 582.4762,208.2452 C587.9592,210.7959 588.8378,215.2111 584.9152,219.7549 C588.5582,223.6332 588.9856,227.5536 583.3145,229.9726 C588.5078,235.292 587.2271,239.144 580.3208,241.2521 C585.6023,246.4468 584.7717,251.8122 577.912,254.8573 C574.813,259.8584 570.4909,259.7525 566.9091,255.4269 C562.944,261.5993 558.5309,260.9226 554.6961,255.2921 C551.1185,262.275 545.6886,261.4105 541.9002,255.5014 C539.8861,261.3779 534.7764,261.1539 531.4334,256.8704 C528.5635,262.2634 522.9326,261.9748 520.1629,256.7638 C516.6525,263.3609 510.6407,263.5182 507.2732,256.6271 C505.0436,262.5551 500.8527,263.8823 496.2993,258.9823 C491.2101,264.209 487.3566,262.6579 485.0375,256.2914 C481.9223,261.8561 476.0425,261.7407 472.5482,256.7393 C468.8423,261.0591 464.9652,260.8819 461.5826,256.3392 C457.8002,262.0429 453.2491,262.3703 449.7231,256.0856 C444.6737,261.5781 440.4437,262.0989 436.539,254.8967 C433.8837,259.9748 429.4964,260.3955 426.3673,255.3739 C421.5973,261.905 417.1426,260.1608 413.3099,254.3799 C407.0647,250.8277 408.2702,245.7219 413.6895,242.5438 C407.3644,239.5635 406.351,233.7276 412.8898,229.9316 C408.6781,226.8201 407.6313,222.5572 412.9921,219.5399 C407.513,215.0194 406.9941,210.8095 413.0035,206.299 C408.627,202.2048 407.9505,197.3198 414.3993,194.5069 C408.9329,191.065 410.1049,187.5279 414.5834,184.2647 " fill="#454158" style="stroke:#8AFF80;stroke-width:1.5;"/><!--MD5=[a8e31809c94bd3920922c17a126bb0b3]
+cluster MySql--><path d="M376,294.8 C376,284.8 510,284.8 510,284.8 C510,284.8 644,284.8 644,294.8 L644,611.8 C644,621.8 510,621.8 510,621.8 C510,621.8 376,621.8 376,611.8 L376,294.8 " fill="#454158" style="stroke:#8AFF80;stroke-width:1.5;"/><path d="M376,294.8 C376,304.8 510,304.8 510,304.8 C510,304.8 644,304.8 644,294.8 " fill="none" style="stroke:#8AFF80;stroke-width:1.5;"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="60" x="480" y="325.5">MySql</text><!--MD5=[57a7dd60b0970f41fd8892a58576fbc8]
+cluster This is my folder--><path d="M410,349.8 L600,349.8 A15,15 0 0 1 610,359.8 L617,379.8 L610,379.8 A10,10 0 0 1 620,389.8 L620,451.8 A10,10 0 0 1 610,461.8 L410,461.8 A10,10 0 0 1 400,451.8 L400,359.8 A10,10 0 0 1 410,349.8 " fill="#454158" style="stroke:#8AFF80;stroke-width:1.5;"/><line style="stroke:#8AFF80;stroke-width:1.5;" x1="400" x2="617" y1="379.8" y2="379.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="204" x="404" y="370.5">This is my folder</text><!--MD5=[b098bf3b49ab5940c6091a421f0675e2]
+cluster Foo--><rect fill="#454158" height="112" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="156" x="417" y="485.8"/><path d="M463,485.8 L463,502.8 L453,512.8 L417,512.8 " fill="none" style="stroke:#8AFF80;stroke-width:1.5;"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="36" x="420" y="505.5">Foo</text><!--MD5=[96f7e1299d4a43069e6ed32352fcac20]
+entity HTTP--><ellipse cx="286" cy="76.8" fill="#454158" rx="8" ry="8" style="stroke:#8AFF80;stroke-width:1.5;"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="48" x="262" y="112.5">HTTP</text><!--MD5=[cbd7cda55f2530e2efe43ec72c097853]
+entity First Component--><rect fill="#454158" height="54" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="220" x="22" y="49.8"/><rect fill="#454158" height="10" style="stroke:#8AFF80;stroke-width:1.5;" width="15" x="222" y="54.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="220" y="56.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="220" y="60.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="180" x="37" y="88.5">First Component</text><!--MD5=[b9d11f23832c1491231c5b33e55ab8c6]
+entity Another Component--><rect fill="#454158" height="54" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="244" x="330" y="49.8"/><rect fill="#454158" height="10" style="stroke:#8AFF80;stroke-width:1.5;" width="15" x="554" y="54.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="552" y="56.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="552" y="60.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="204" x="345" y="88.5">Another Component</text><!--MD5=[76af18d92d7d7c0f7ebd8f4f605ac5aa]
+entity FTP--><ellipse cx="89" cy="217.8" fill="#454158" rx="8" ry="8" style="stroke:#8AFF80;stroke-width:1.5;"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="36" x="71" y="253.5">FTP</text><!--MD5=[0e2cc1aee2c7f52697e111b4fb84546c]
+entity Second Component--><rect fill="#454158" height="54" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="232" x="133" y="190.8"/><rect fill="#454158" height="10" style="stroke:#8AFF80;stroke-width:1.5;" width="15" x="345" y="195.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="343" y="197.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="343" y="201.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="192" x="148" y="229.5">Second Component</text><!--MD5=[243c1e580c31013c48b02624e18b25a7]
+entity Example 1--><rect fill="#454158" height="54" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="148" x="421" y="190.8"/><rect fill="#454158" height="10" style="stroke:#8AFF80;stroke-width:1.5;" width="15" x="549" y="195.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="547" y="197.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="547" y="201.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="108" x="436" y="229.5">Example 1</text><!--MD5=[3e0e08c92570480402984701ab5a6d2d]
+entity Folder 3--><rect fill="#454158" height="54" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="136" x="427" y="391.8"/><rect fill="#454158" height="10" style="stroke:#8AFF80;stroke-width:1.5;" width="15" x="543" y="396.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="541" y="398.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="541" y="402.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="96" x="442" y="430.5">Folder 3</text><!--MD5=[63877ed85df621d134a6c80fb52dad56]
+entity Frame 4--><rect fill="#454158" height="54" rx="10" ry="10" style="stroke:#8AFF80;stroke-width:1.5;" width="124" x="433" y="527.8"/><rect fill="#454158" height="10" style="stroke:#8AFF80;stroke-width:1.5;" width="15" x="537" y="532.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="535" y="534.8"/><rect fill="#454158" height="2" style="stroke:#8AFF80;stroke-width:1.5;" width="4" x="535" y="538.8"/><text fill="#FF80BF" font-family="Fira Mono" font-size="20" lengthAdjust="spacing" textLength="84" x="448" y="566.5">Frame 4</text><!--MD5=[46d996859f59e5baf77956ce93023cee]
+link HTTP to First Component--><path d="M276.74,76.8 C265.19,76.8 253.64,76.8 242.09,76.8 " fill="none" id="HTTP-First Component" style="stroke:#FF80BF;stroke-width:1.0;"/><!--MD5=[1966a42bb49d59057147dbda06282f4b]
+link FTP to Second Component--><path d="M98.06,217.8 C109.66,217.8 121.25,217.8 132.85,217.8 " fill="none" id="FTP-Second Component" style="stroke:#FF80BF;stroke-width:1.0;"/><!--MD5=[d3aefbd8005e27b21e7ce98ddd948193]
+link First Component to FTP--><path d="M123.91,103.94 C114.72,133.65 100.09,180.95 93.05,203.71 " fill="none" id="First Component-to-FTP" style="stroke:#FF80BF;stroke-width:1.0;"/><polygon fill="#FF80BF" points="91.51,208.69,97.9783,201.263,92.9794,203.9108,90.3316,198.9119,91.51,208.69" style="stroke:#FF80BF;stroke-width:1.0;"/><!--MD5=[efc1ffe8b578a0fb156c7bce303319bb]
+link Another Component to Example 1--><path d="M460.09,103.94 C467.3,127.24 477.85,161.36 485.47,185.98 " fill="none" id="Another Component-to-Example 1" style="stroke:#FF80BF;stroke-width:1.0;"/><polygon fill="#FF80BF" points="486.95,190.77,488.1202,180.9909,485.4766,185.992,480.4754,183.3484,486.95,190.77" style="stroke:#FF80BF;stroke-width:1.0;"/><!--MD5=[7ec8393a78a133520e8846dd05a7857a]
+link Example 1 to Folder 3--><path d="M495,244.82 C495,281.32 495,347.62 495,386.69 " fill="none" id="Example 1-to-Folder 3" style="stroke:#FF80BF;stroke-width:1.0;"/><polygon fill="#FF80BF" points="495,391.78,499,382.78,495,386.78,491,382.78,495,391.78" style="stroke:#FF80BF;stroke-width:1.0;"/><!--MD5=[b96c7096199393c1414a8b4e9ed2c30f]
+link Folder 3 to Frame 4--><path d="M495,445.95 C495,467.91 495,499.32 495,522.58 " fill="none" id="Folder 3-to-Frame 4" style="stroke:#FF80BF;stroke-width:1.0;"/><polygon fill="#FF80BF" points="495,527.71,499,518.71,495,522.71,491,518.71,495,527.71" style="stroke:#FF80BF;stroke-width:1.0;"/><!--MD5=[8d3b27f8dd6dd101e998d9c65d01185d]
 @startuml
 
 !include ../theme.puml
@@ -58,189 +58,196 @@ database "MySql" {
 
 
 
-
-skinparam backgroundColor #282c34
-
+skinparam backgroundColor #22212C
 skinparam {
-  ActivityBackgroundColor        #424856
-  ActivityBarColor               #abb2bf
-  ActivityBorderColor            #61afef
-  ActivityDiamondBackgroundColor #424856
-  ActivityDiamondBorderColor     #61afef
-  ActivityEndColor               #e06c75
-  ActivityStartColor             #98c379
-  ActivityStopColor              #e06c75
+  DefaultFontColor #FF80BF
+  DefaultFontName Fira Mono
+  DefaultFontSize 20
 
-  ActorBackgroundColor        #424856
-  ActorBorderColor            #61afef
-  ActorStereotypeFontColor    #abb2bf
+  
 
-  AgentBackgroundColor       #424856
-  AgentBorderColor           #61afef
+  ActivityBackgroundColor        #454158
+  ActivityBarColor               #F8F8F2
+  ActivityBorderColor            #8AFF80
+  ActivityDiamondBackgroundColor #454158
+  ActivityDiamondBorderColor     #8AFF80
+  ActivityEndColor               #FF9580
+  ActivityStartColor             #8AFF80
+  ActivityStopColor              #FF9580
 
+  ActorBackgroundColor        #454158
+  ActorBorderColor            #8AFF80
+  ActorStereotypeFontColor    #F8F8F2
 
-  ArrowColor #61afef
+  AgentBackgroundColor       #454158
+  AgentBorderColor           #8AFF80
 
-  ArtifactBackgroundColor     #424856
-  ArtifactBorderColor         #61afef
+  
+  ArrowColor #8AFF80
 
-  BackgroundColor #282c34
+  ArtifactBackgroundColor     #454158
+  ArtifactBorderColor         #8AFF80
 
+  BackgroundColor #22212C
+  
 
-  BoundaryBackgroundColor     #424856
-  BoundaryBorderColor         #61afef
-  BoundaryStereotypeFontColor #abb2bf
+  BoundaryBackgroundColor     #454158
+  BoundaryBorderColor         #8AFF80
+  BoundaryStereotypeFontColor #F8F8F2
 
+  
+  CaptionFontColor #F8F8F2
+  CaptionFontSize 15
 
-  CaptionFontColor #abb2bf
+  CardBackgroundColor     #454158
+  CardBorderColor         #8AFF80
+  
 
-  CardBackgroundColor     #424856
-  CardBorderColor         #61afef
+  ClassAttributeFontColor #8AFF80
 
-
-
-  ClassBackgroundColor   #424856
-  ClassBorderColor       #abb2bf
-
-
-
-  CloudBackgroundColor        #424856
-  CloudBorderColor            #61afef
-
-  CollectionsBackgroundColor #424856
-  CollectionsBorderColor     #61afef
-
-
-  ComponentBackgroundColor       #424856
-  ComponentBorderColor           #61afef
-
-
-
-  ControlBackgroundColor #424856
-  ControlBorderColor     #61afef
-  ControlFontColor       #abb2bf
-  ControlStereotypeFontColor #abb2bf
-
-  DatabaseBackgroundColor       #424856
-  DatabaseBorderColor           #61afef
-
-  DefaultFontColor #abb2bf
-  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+  ClassBackgroundColor   #22212C
+  ClassBorderColor       #9580FF
+  ClassBorderThickness	 2
+	ClassArrowColor				 #FF80BF
+  ClassFontColor 				 #8AFF80
+  ClassFontSize 				 20
+  
+  ClassHeaderBackgroundColor #454158
 
 
+  CloudBackgroundColor        #454158
+  CloudBorderColor            #8AFF80
+  
+  CollectionsBackgroundColor #454158
+  CollectionsBorderColor     #8AFF80
+
+  
+  ComponentBackgroundColor       #454158
+  ComponentBorderColor           #8AFF80
 
 
 
+  ControlBackgroundColor #454158
+  ControlBorderColor     #8AFF80
+  ControlFontColor       #F8F8F2
+  ControlStereotypeFontColor #F8F8F2
+
+  DatabaseBackgroundColor       #454158
+  DatabaseBorderColor           #8AFF80
+
+  
+
+  
 
 
+  EntityBackgroundColor #454158
+  EntityBorderColor     #8AFF80
+  
 
-  EntityBackgroundColor #424856
-  EntityBorderColor     #61afef
-
-
-  FileBackgroundColor #424856
-  FileBorderColor     #61afef
-
+  FileBackgroundColor #454158
+  FileBorderColor     #8AFF80
 
 
-  FolderBackgroundColor #424856
-  FolderBorderColor     #61afef
+ 
+  FolderBackgroundColor #454158
+  FolderBorderColor     #8AFF80
+  
+
+  FrameBackgroundColor       #454158
+  FrameBorderColor           #8AFF80
+
+  HexagonBackgroundColor #454158
+  HexagonBorderColor     #8AFF80
 
 
-  FrameBackgroundColor       #424856
-  FrameBorderColor           #61afef
+  InterfaceBackgroundColor       #454158
+  InterfaceBorderColor           #8AFF80
 
-  HexagonBackgroundColor #424856
-  HexagonBorderColor     #61afef
+  LegendBackgroundColor   #454158
+  LegendBorderColor       #F8F8F2
 
+  
+  NodeBackgroundColor       #454158
+  NodeBorderColor           #8AFF80
+  
 
-  InterfaceBackgroundColor       #424856
-  InterfaceBorderColor           #61afef
+  NoteBackgroundColor   #FFFF80
+  NoteBorderColor       #22212C
+  NoteFontColor         #22212C
+  
+  ObjectBackgroundColor       #454158
+  ObjectBorderColor           #8AFF80
+  
+  PackageBackgroundColor       #22212C
+  PackageBorderColor           #8AFF80
 
-  LegendBackgroundColor   #424856
-  LegendBorderColor       #abb2bf
-
-
-  NodeBackgroundColor       #424856
-  NodeBorderColor           #61afef
-
-
-  NoteBackgroundColor   #e5c07b
-  NoteBorderColor       #282c34
-  NoteFontColor         #282c34
-
-  ObjectBackgroundColor       #424856
-  ObjectBorderColor           #61afef
-
-  PackageBackgroundColor       #282c34
-  PackageBorderColor           #61afef
-
-
-  ParticipantBackgroundColor #424856
-  ParticipantBorderColor     #61afef
-
+  
+  ParticipantBackgroundColor #454158
+  ParticipantBorderColor     #8AFF80
+  
   PartitionBackgroundColor transparent
-  PartitionBorderColor     #abb2bf
+  PartitionBorderColor     #F8F8F2
+  
+
+  PersonBackgroundColor #454158
+  PersonBorderColor     #8AFF80
+  
+  QueueBackgroundColor       #454158
+  QueueBorderColor           #8AFF80
+  
+  
+  RectangleBackgroundColor       #454158
+  RectangleBorderColor           #8AFF80
 
 
-  PersonBackgroundColor #424856
-  PersonBorderColor     #61afef
+  RoundCorner 20
 
-  QueueBackgroundColor       #424856
-  QueueBorderColor           #61afef
-
-
-  RectangleBackgroundColor       #424856
-  RectangleBorderColor           #61afef
+  
+  SequenceBoxBackgroundColor #454158
+  SequenceBoxBorderColor     #8AFF80
 
 
+  SequenceDividerBackgroundColor   #454158
+  SequenceDividerBorderColor       #F8F8F2
+  
+  SequenceGroupBackgroundColor       #454158
+  SequenceGroupBorderColor           #F8F8F2
 
+  SequenceLifeLineBackgroundColor   #22212C
+  SequenceLifeLineBorderColor       #8AFF80
 
-  SequenceBoxBackgroundColor #424856
-  SequenceBoxBorderColor     #61afef
-
-
-  SequenceDividerBackgroundColor   #424856
-  SequenceDividerBorderColor       #abb2bf
-
-  SequenceGroupBackgroundColor       #424856
-  SequenceGroupBorderColor           #abb2bf
-
-  SequenceLifeLineBackgroundColor   #282c34
-  SequenceLifeLineBorderColor       #61afef
-
-  SequenceNewpageSeparatorColor  #abb2bf
-
-
+  SequenceNewpageSeparatorColor  #F8F8F2
+  
+  
   SequenceReferenceBackgroundColor        transparent
-  SequenceReferenceBorderColor            #abb2bf
-  SequenceReferenceHeaderBackgroundColor #424856
+  SequenceReferenceBorderColor            #F8F8F2
+  SequenceReferenceHeaderBackgroundColor #454158
 
-
+  
   Shadowing false
 
-  StackBackgroundColor       #424856
-  StackBorderColor           #61afef
+  StackBackgroundColor       #454158
+  StackBorderColor           #8AFF80
+
+  
+  StateBackgroundColor    #454158
+  StateBorderColor        #8AFF80
+  StateEndColor           #FF9580
+  StateStartColor         #8AFF80
+
+  
+  StorageBackgroundColor #454158
+  StorageBorderColor     #F8F8F2
+  
+  
+  SwimlaneBorderColor            #F8F8F2
 
 
-  StateBackgroundColor    #424856
-  StateBorderColor        #61afef
-  StateEndColor           #e06c75
-  StateStartColor         #98c379
 
 
-  StorageBackgroundColor #424856
-  StorageBorderColor     #abb2bf
-
-
-  SwimlaneBorderColor            #abb2bf
-
-
-
-
-  UsecaseBackgroundColor       #424856
-  UsecaseBorderColor           #61afef
-
+  UsecaseBackgroundColor       #454158
+  UsecaseBorderColor           #8AFF80
+  
 }
 
 
@@ -273,11 +280,11 @@ database "MySql" {
 
 @enduml
 
-PlantUML version 1.2022.12(Sun Oct 23 11:12:26 PDT 2022)
+PlantUML version 1.2021.16(Wed Dec 08 12:25:22 EST 2021)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
 Default Encoding: UTF-8
 Language: en
-Country: US
+Country: CA
 --></g></svg>

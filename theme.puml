@@ -12,20 +12,25 @@
 ' Background
 !$color_fg      	= "#F8F8F2"
 !$color_comment		= "#7970A9"
-!$color_selection 	= $color_bg_light
+!$color_selection = $color_bg_light
 
 !$color_red     	= "#FF9580"
 !$color_green   	= "#8AFF80"
 !$color_yellow  	= "#FFFF80"
 !$color_blue    	= "#80FFEA"
 !$color_purple  	= "#9580FF"
-!$color_pink		= "#FF80BF"
+!$color_pink		  = "#FF80BF"
 !$color_orange		= "#FFCA80"
 
 !$color_primary 	= $color_green
 
 skinparam backgroundColor $color_bg
-
+' <style>
+' stateDiagram {
+'   BackgroundColor transparent
+'   'LineColor red
+' }
+' </style>
 skinparam {
 	'
   ' Default font styles

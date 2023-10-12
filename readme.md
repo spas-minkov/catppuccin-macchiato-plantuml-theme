@@ -6,9 +6,9 @@ and
 
 ## Screenshots
 
-JetBrains:
+<!-- JetBrains:
 
-![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with Dracula PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png)
+![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with Dracula PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png) -->
 
 Visual Studio Code:
 
