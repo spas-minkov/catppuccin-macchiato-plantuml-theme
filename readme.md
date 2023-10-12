@@ -21,7 +21,7 @@ Visual Studio Code:
 ```puml
 @startuml
 
-!include https://raw.githubusercontent.com/guipatriota/racula-plantuml-theme/v1.0.0/theme.puml
+!include https://raw.githubusercontent.com/guipatriota/dracula-plantuml-theme/v1.0.0/theme.puml
 
 Bob->Alice : hello
 
