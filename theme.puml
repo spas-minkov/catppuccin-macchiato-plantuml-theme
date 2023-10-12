@@ -1,31 +1,42 @@
-@startuml
+@startuml dracula_theme
 
 '
-' One Dark theme
-'
-
+' Dracula Dark theme
 '
 ' Colors
 '
 ' Foreground
-!$color_bg       = "#282c34"
-!$color_bg_light = "#424856"
+!$color_bg      	= "#22212C"
+!$color_bg_light	= "#454158"
 
 ' Background
-!$color_fg       = "#abb2bf"
+!$color_fg      	= "#F8F8F2"
+!$color_comment		= "#7970A9"
+!$color_selection = $color_bg_light
 
-!$color_red      = "#e06c75"
-!$color_green    = "#98c379"
-!$color_yellow   = "#e5c07b"
-!$color_blue     = "#61afef"
-!$color_purple   = "#c678dd"
-!$color_teal     = "#56b6c2"
+!$color_red     	= "#FF9580"
+!$color_green   	= "#8AFF80"
+!$color_yellow  	= "#FFFF80"
+!$color_blue    	= "#80FFEA"
+!$color_purple  	= "#9580FF"
+!$color_pink			= "#FF80BF"
+!$color_orange		= "#FFCA80"
 
-!$color_primary  = $color_blue
+!$color_primary 	= $color_green
 
 skinparam backgroundColor $color_bg
 
 skinparam {
+	'
+  ' Default font styles
+  '
+  DefaultFontColor $color_pink
+  DefaultFontName Fira Mono
+  DefaultFontSize 20
+
+  ' DefaultTextAlignment
+  
+
   '
   ' Activity
   '
@@ -83,7 +94,7 @@ skinparam {
   '
   ' ArchimateBorderColor
   '
-  ' ArchimateBorderThickness
+  ' ArchimateBorderThickness 
   ' ArchimateFontColor
   '
   ' ArchimateFontName
@@ -96,7 +107,7 @@ skinparam {
   '
   ' ArchimateStereotypeFontSize
   ' ArchimateStereotypeFontStyle
-
+  
   '
   ' Arrow
   '
@@ -128,8 +139,8 @@ skinparam {
   ' Background color
   '
   BackgroundColor $color_bg
-
-  '
+  
+  ' 
   ' Biddable (?)
   '
   ' BiddableBackgroundColor
@@ -153,13 +164,13 @@ skinparam {
   ' Box padding
   '
   ' BoxPadding
-
+  
   '
   ' Caption
   '
   CaptionFontColor $color_fg
   ' CaptionFontName
-  ' CaptionFontSize
+  CaptionFontSize 15
   ' CaptionFontStyle
 
   '
@@ -176,7 +187,7 @@ skinparam {
   ' CardStereotypeFontName
   ' CardStereotypeFontSize
   ' CardStereotypeFontStyle
-
+  
   '
   ' Circled character (in class header)
   '
@@ -189,7 +200,7 @@ skinparam {
   '
   ' Class attribute
   '
-  ' ClassAttributeFontColor
+  ClassAttributeFontColor $color_green
   ' ClassAttributeFontName
   ' ClassAttributeFontSize
   ' ClassAttributeFontStyle
@@ -198,23 +209,24 @@ skinparam {
   '
   ' Class
   '
-  ClassBackgroundColor   $color_bg_light
-  ClassBorderColor       $color_fg
-  ' ClassBorderThickness
-  ' ClassFontColor
+  ClassBackgroundColor   $color_bg
+  ClassBorderColor       $color_purple
+  ClassBorderThickness	 2
+	ClassArrowColor				 $color_pink
+  ClassFontColor 				 $color_green
   ' ClassFontName
-  ' ClassFontSize
+  ClassFontSize 				 20
   ' ClassFontStyle
-
+  
   '
   ' Class header
   '
-  ' ClassHeaderBackgroundColor
+  ClassHeaderBackgroundColor $color_bg_light
 
   '
   ' Class stereotype
   '
-  ' ClassStereotypeFontColor
+  ' ClassStereotypeFontColor	 $color_purple
   ' ClassStereotypeFontName
   ' ClassStereotypeFontSize
   ' ClassStereotypeFontStyle
@@ -232,7 +244,7 @@ skinparam {
   ' CloudStereotypeFontName
   ' CloudStereotypeFontSize
   ' CloudStereotypeFontStyle
-
+  
   '
   ' Collections
   '
@@ -241,7 +253,7 @@ skinparam {
 
   ' TODO
   ' ColorArrowSeparationSpace
-
+  
   '
   ' Component
   '
@@ -293,22 +305,7 @@ skinparam {
   ' DatabaseStereotypeFontSize
   ' DatabaseStereotypeFontStyle
 
-  '
-  ' Default font styles
-  '
-  DefaultFontColor $color_fg
-  ' https://github.com/twbs/bootstrap/blob/v4.5.3/scss/_variables.scss#L277
-  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
-  ' DefaultFontSize
-  ' DefaultFontStyle
-
-  ' TODO: get this to work
-  ' https://github.com/twbs/bootstrap/blob/v4.5.3/scss/_variables.scss#L278
-  ' DefaultMonospacedFontName SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
-
-  ' DefaultTextAlignment
   
-
   '
   ' Designed (?)
   '
@@ -329,7 +326,7 @@ skinparam {
   '
   ' DiagramBorderColor
   ' DiagramBorderThickness
-
+  
   '
   ' Domain (?)
   '
@@ -357,7 +354,7 @@ skinparam {
   ' EntityFontSize
   ' EntityFontStyle
   ' EntityStereotypeFontColor
-
+  
   '
   ' Entity stereotype
   '
@@ -386,7 +383,7 @@ skinparam {
   ' FileStereotypeFontStyle
 
   ' FixCircleLabelOverlapping
-
+ 
   '
   ' Folder
   '
@@ -396,7 +393,7 @@ skinparam {
   ' FolderFontName
   ' FolderFontSize
   ' FolderFontStyle
-
+  
   '
   ' Folder stereotype
   '
@@ -516,7 +513,7 @@ skinparam {
   '
   ' MinClassWidth
   ' Monochrome
-
+  
   '
   ' Node
   '
@@ -530,7 +527,7 @@ skinparam {
   ' NodeStereotypeFontName
   ' NodeStereotypeFontSize
   ' NodeStereotypeFontStyle
-
+  
   ' Nodesep
 
   '
@@ -545,7 +542,7 @@ skinparam {
   ' NoteFontStyle
   ' NoteShadowing
   ' NoteTextAlignment
-
+  
   '
   ' Object
   '
@@ -564,7 +561,7 @@ skinparam {
   ' ObjectStereotypeFontName
   ' ObjectStereotypeFontSize
   ' ObjectStereotypeFontStyle
-
+  
   '
   ' Package
   '
@@ -589,7 +586,7 @@ skinparam {
   '
   ' PageExternalColor
   ' PageMargin
-
+  
   '
   ' Participant
   '
@@ -604,7 +601,7 @@ skinparam {
   ' ParticipantStereotypeFontName
   ' ParticipantStereotypeFontSize
   ' ParticipantStereotypeFontStyle
-
+  
   '
   ' Partition
   '
@@ -615,7 +612,7 @@ skinparam {
   ' PartitionFontName
   ' PartitionFontSize
   ' PartitionFontStyle
-
+  
   ' PathHoverColor
 
   '
@@ -623,7 +620,7 @@ skinparam {
   '
   PersonBackgroundColor $color_bg_light
   PersonBorderColor     $color_primary
-
+  
   '
   ' Queue
   '
@@ -638,9 +635,9 @@ skinparam {
   ' QueueStereotypeFontName
   ' QueueStereotypeFontSize
   ' QueueStereotypeFontStyle
-
+  
   ' Ranksep
-
+  
   '
   ' Rectangle
   '
@@ -676,13 +673,13 @@ skinparam {
   '
   ' ResponseMessageBelowArrow
 
-  ' RoundCorner
+  RoundCorner 20
 
   ' SameClassWidth
   '
   ' SequenceActorBorderThickness
   ' SequenceArrowThickness
-
+  
   '
   ' Sequence box
   '
@@ -711,7 +708,7 @@ skinparam {
   ' SequenceDividerFontName
   ' SequenceDividerFontSize
   ' SequenceDividerFontStyle
-
+  
   '
   ' Sequence group
   '
@@ -741,13 +738,13 @@ skinparam {
   ' SequenceMessageAlignment
   ' SequenceMessageTextAlignment
   SequenceNewpageSeparatorColor  $color_fg
-
+  
   '
   ' Sequence participant
   '
   ' SequenceParticipant
   ' SequenceParticipantBorderThickness
-
+  
   '
   ' Sequence reference
   '
@@ -768,7 +765,7 @@ skinparam {
   ' SequenceStereotypeFontName
   ' SequenceStereotypeFontSize
   ' SequenceStereotypeFontStyle
-
+  
   '
   ' Shadowing
   '
@@ -793,7 +790,7 @@ skinparam {
   '
   ' StateAttributeFontSize
   ' StateAttributeFontStyle
-
+  
   '
   ' State
   '
@@ -821,7 +818,7 @@ skinparam {
   ' StereotypeNBackgroundColor
   ' StereotypeNBorderColor
   ' StereotypePosition
-
+  
   '
   ' Storage
   '
@@ -835,10 +832,10 @@ skinparam {
   ' StorageStereotypeFontName
   ' StorageStereotypeFontSize
   ' StorageStereotypeFontStyle
-
+  
   ' Style
   ' SvglinkTarget
-
+  
   '
   ' Swimlane
   '
@@ -888,7 +885,7 @@ skinparam {
   ' UsecaseStereotypeFontName
   ' UsecaseStereotypeFontSize
   ' UsecaseStereotypeFontStyle
-
+  
   ' WrapWidth
 }
 
