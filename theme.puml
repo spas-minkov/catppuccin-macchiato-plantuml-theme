@@ -1,28 +1,28 @@
 @startuml dracula_theme
 
 '
-' Dracula Dark theme
+' Catppuccin Macchiato Theme
 '
 ' Colors
 '
 ' Foreground
-!$color_bg      	= "#22212C"
-!$color_bg_light	= "#454158"
+!$color_bg      	= "#24273A"
+!$color_bg_light	= "#363A4F"
 
 ' Background
-!$color_fg      	= "#F8F8F2"
-!$color_comment		= "#7970A9"
+!$color_fg      	= "#CAD3F5"
+!$color_comment		= "#6E738D"
 !$color_selection = $color_bg_light
 
-!$color_red     	= "#FF9580"
-!$color_green   	= "#8AFF80"
-!$color_yellow  	= "#FFFF80"
-!$color_blue    	= "#80FFEA"
-!$color_purple  	= "#9580FF"
-!$color_pink		  = "#FF80BF"
-!$color_orange		= "#FFCA80"
+!$color_red     	= "#ED8796"
+!$color_green   	= "#A6DA95"
+!$color_yellow  	= "#EED49F"
+!$color_blue    	= "#8AADF4"
+!$color_purple  	= "#C6A0F6"
+!$color_pink		= "#F5BDE6"
+!$color_orange		= "#F5A97F"
 
-!$color_primary 	= $color_green
+!$color_primary 	= "#B7BDF8"
 
 skinparam backgroundColor $color_bg
 ' <style>
@@ -35,12 +35,12 @@ skinparam {
 	'
   ' Default font styles
   '
-  DefaultFontColor $color_pink
-  DefaultFontName Fira Mono
-  DefaultFontSize 20
+  DefaultFontColor $color_fg
+  DefaultFontName Helvetica
+  DefaultFontSize 12
 
   ' DefaultTextAlignment
-  
+
 
   '
   ' Activity
@@ -175,7 +175,7 @@ skinparam {
   '
   CaptionFontColor $color_fg
   ' CaptionFontName
-  CaptionFontSize 15
+  CaptionFontSize 14
   ' CaptionFontStyle
 
   '
@@ -220,7 +220,7 @@ skinparam {
 	ClassArrowColor				 $color_pink
   ClassFontColor 				 $color_green
   ' ClassFontName
-  ClassFontSize 				 20
+  ClassFontSize 				 16
   ' ClassFontStyle
   
   '
@@ -678,7 +678,7 @@ skinparam {
   '
   ' ResponseMessageBelowArrow
 
-  RoundCorner 20
+  RoundCorner 3
 
   ' SameClassWidth
   '

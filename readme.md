@@ -1,18 +1,18 @@
-# [Dracula](https://github.com/atom/atom/tree/v1.53.0/packages/one-dark-ui) [PlantUML](https://plantuml.com) theme
+# [Catppuccin (Macchiato)](https://catppuccin.com/) [PlantUML](https://plantuml.com) theme
 
-Based on [Dracula](https://github.com/atom/atom/tree/v1.53.0/packages/one-dark-ui) [PlantUML](https://plantuml.com) theme
-and
-[Dracula Theme](https://draculatheme.com/)
+Based on the [Catppuccin (Macchiato)](https://github.com/catppuccin/catppuccin) palette and the [Dracula PlantUML 
+theme](https://github.com/guipatriota/dracula-plantuml-theme).
 
 ## Screenshots
 
-<!-- JetBrains:
+JetBrains:
 
-![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with Dracula PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png) -->
+![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with Dracula PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png)
 
-Visual Studio Code:
+<!-- Visual Studio Code:
 
-![Screenshot of Visual Studio Code with PlantUML diagram code in left pane and diagram preview with Dracula PlantUML theme in right pane](docs/ide-screenshots/vs-code.png)
+![Screenshot of Visual Studio Code with PlantUML diagram code in left pane and diagram preview with Dracula PlantUML 
+theme in right pane](docs/ide-screenshots/vs-code.png)-->
 
 ## Usage
 
@@ -21,7 +21,7 @@ Visual Studio Code:
 ```puml
 @startuml
 
-!include https://raw.githubusercontent.com/guipatriota/dracula-plantuml-theme/v1.0.0/theme.puml
+!include https://raw.githubusercontent.com/ncosta-ic/catppuccin-macchiato-plantuml-theme/main/theme.puml
 
 Bob->Alice : hello
 
