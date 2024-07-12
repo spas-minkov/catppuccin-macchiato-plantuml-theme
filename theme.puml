@@ -7,7 +7,8 @@
 '
 ' Foreground
 !$color_bg      	= "#1E1E2E"
-!$color_bg_light	= "#363A4F"
+'!$color_bg_light	= "#363A4F"
+!$color_bg_light	= "#1E1E2E"
 
 ' Background
 '!$color_fg      	= "#CAD3F5"
