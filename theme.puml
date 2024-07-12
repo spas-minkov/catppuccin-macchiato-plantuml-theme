@@ -203,7 +203,7 @@ skinparam {
   '
    CircledCharacterFontColor $color_black
   ' CircledCharacterFontName
-  ' CircledCharacterFontSize
+   CircledCharacterFontSize 16
   ' CircledCharacterFontStyle
   ' CircledCharacterRadius
 
