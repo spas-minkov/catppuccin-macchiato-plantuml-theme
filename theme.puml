@@ -12,7 +12,7 @@
 
 ' Background
 '!$color_fg      	= "#CAD3F5"
-!$color_fg      	= "#B4BEFE"
+!$color_fg      	= "#B5BDD9"
 !$color_comment		= "#6E738D"
 !$color_selection = $color_bg_light
 
@@ -20,13 +20,13 @@
 '!$color_green   	= "#A6DA95"
 !$color_green   	= "#B5BDD9"
 
-!$color_yellow  	= "#EED49F"
-!$color_blue    	= "#8AADF4"
-!$color_purple  	= "#C6A0F6"
-!$color_pink		= "#F5BDE6"
-!$color_orange		= "#F5A97F"
+!$color_yellow  	= "#B5BDD9"
+!$color_blue    	= "#B5BDD9"
+!$color_purple  	= "#B5BDD9"
+!$color_pink		= "#B5BDD9"
+!$color_orange		= "#B5BDD9"
 
-!$color_primary 	= "#B7BDF8"
+!$color_primary 	= "#B5BDD9"
 
 skinparam backgroundColor $color_bg
 ' <style>
