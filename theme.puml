@@ -27,7 +27,6 @@
 !$color_orange		= "#B5BDD9"
 
 !$color_primary 	= "#B5BDD9"
-!$color_black            = "#000000"
 
 skinparam backgroundColor $color_bg
 ' <style>
@@ -201,9 +200,9 @@ skinparam {
   '
   ' Circled character (in class header)
   '
-   CircledCharacterFontColor $color_black
+  ' CircledCharacterFontColor
   ' CircledCharacterFontName
-   CircledCharacterFontSize 16
+  ' CircledCharacterFontSize
   ' CircledCharacterFontStyle
   ' CircledCharacterRadius
 
@@ -898,5 +897,9 @@ skinparam {
   
   ' WrapWidth
 }
-
+<style>
+spotClass {
+   FontColor black
+}
+</style>
 @enduml
