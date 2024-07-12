@@ -27,7 +27,7 @@
 !$color_orange		= "#B5BDD9"
 
 !$color_primary 	= "#B5BDD9"
-!color_black            = "#000000"
+!$color_black            = "#000000"
 
 skinparam backgroundColor $color_bg
 ' <style>
