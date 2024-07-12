@@ -16,8 +16,8 @@
 !$color_comment		= "#6E738D"
 !$color_selection = $color_bg_light
 
-!$color_red     	= "#ED8796"
-'!$color_green   	= "#A6DA95"
+!$color_red     	= "#B5BDD9"
+'!$color_green   	= "#B5BDD9"
 !$color_green   	= "#B5BDD9"
 
 !$color_yellow  	= "#B5BDD9"
@@ -41,7 +41,7 @@ skinparam {
   '
   DefaultFontColor $color_fg
   DefaultFontName Helvetica
-  DefaultFontSize 12
+  DefaultFontSize 15
 
   ' DefaultTextAlignment
 
