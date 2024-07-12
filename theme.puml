@@ -6,11 +6,12 @@
 ' Colors
 '
 ' Foreground
-!$color_bg      	= "#24273A"
+!$color_bg      	= "#1E1E2E"
 !$color_bg_light	= "#363A4F"
 
 ' Background
-!$color_fg      	= "#CAD3F5"
+'!$color_fg      	= "#CAD3F5"
+!$color_fg      	= "#B4BEFE"
 !$color_comment		= "#6E738D"
 !$color_selection = $color_bg_light
 
