@@ -17,7 +17,9 @@
 !$color_selection = $color_bg_light
 
 !$color_red     	= "#ED8796"
-!$color_green   	= "#A6DA95"
+'!$color_green   	= "#A6DA95"
+!$color_green   	= "#B5BDD9"
+
 !$color_yellow  	= "#EED49F"
 !$color_blue    	= "#8AADF4"
 !$color_purple  	= "#C6A0F6"
