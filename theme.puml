@@ -904,5 +904,8 @@ spotClass {
 spotAbstract {
    FontColor black
 }
+spotAnnotation {
+   FontColor black
+}
 </style>
 @enduml
