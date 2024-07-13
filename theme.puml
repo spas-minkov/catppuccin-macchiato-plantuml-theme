@@ -901,7 +901,7 @@ skinparam {
 spotClass {
    FontColor black
 }
-spotAbstract {
+spotAbstractClass {
    FontColor black
 }
 spotAnnotation {
