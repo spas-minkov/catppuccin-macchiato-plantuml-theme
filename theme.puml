@@ -901,5 +901,8 @@ skinparam {
 spotClass {
    FontColor black
 }
+spotAbstract {
+   FontColor black
+}
 </style>
 @enduml
